@@ -1,0 +1,23 @@
+{
+  "name": "143",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanugulaanusha/CaluclatorUsingNode.git"
+  },
+  "author": "Anusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanugulaanusha/CaluclatorUsingNode/issues"
+  },
+  "homepage": "https://github.com/tanugulaanusha/CaluclatorUsingNode#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
